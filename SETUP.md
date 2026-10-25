@@ -5,10 +5,10 @@ Please fill out the details below, commit this file, and push it to your private
 ---
 
 ## 👤 Student Information
-- **Full Name:** [Your full name here]
-- **Leeds Beckett Student ID:** [e.g. 77XXXXXX]
-- **TBC College Email:** [your.email@thebritishcollege.edu.np]
-- **GitHub Username:** [Your GitHub handle]
+- **Full Name:** [Rohit Shrestha]
+- **Leeds Beckett Student ID:** [77684014]
+- **TBC College Email:** [srohit25@tbc.edu.np]
+- **GitHub Username:** [RohitShrestha2003]
 
 ---
 
@@ -17,7 +17,7 @@ Run the following commands in your terminal and paste the exact output:
 
 ### 1. Java Version (`java -version`)
 ```text
-[Paste output here, e.g. openjdk version "21.0.x"]
+[java version "25.0.2" 2026-01-20 LTS]
 ```
 
 ### 2. IDE Used
